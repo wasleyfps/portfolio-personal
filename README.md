@@ -51,6 +51,6 @@ Esse projeto está sob a licença (Matheus Battisti)
 
 ## 💡 Expressões de gratidão
 
-* Um agradecimento publicamente.
+* Um projeto que foi meu primeiro portfólio, mas estarei fazendo outros até que eu acha algo apresentável para os recrutadores.
 * Para suporte, mande um email para Wasleyoliveiradecarvalho@gmail.com
 * Link para o seu linkedin [Meu linkedin](https://www.linkedin.com/in/wasleyfps/)
